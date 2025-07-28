@@ -1,5 +1,5 @@
 # nyc-taxi-project
-##pictures:
+# pictures:
 <img width="1920" height="1080" alt="dl bronze" src="https://github.com/user-attachments/assets/c35b4dcf-db2e-486a-b5c7-a7ab798b366a" />
 
 <img width="1920" height="1080" alt="dl container" src="https://github.com/user-attachments/assets/ce14930b-4462-4c4e-9d43-0160064b3419" />
